@@ -9,7 +9,9 @@ pre {
     padding: 1em;
 }
 
-
+code:focus {
+    outline: none;
+}
 
 
 /* realtime editing */
